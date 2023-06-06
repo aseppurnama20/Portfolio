@@ -3,7 +3,7 @@ This portfolio is a compilation of all data projects I have done for academic, j
 - Email: aseppurnama67@gmail.com
 - Linkedin: https://www.linkedin.com/in/asep-purnama
 ## Data Engineering Portfolio
-**[ETL: Northwind Business Activity]**(https://github.com/aseppurnama20/DSLS-Data-Engineer-Case-Study.git)
+**[ETL: Northwind Business Activity](https://github.com/aseppurnama20/DSLS-Data-Engineer-Case-Study.git)**
 ## Data Analytics Portfolio
 ## Data Science Portfolio
 ## GIS and Geospatial Portfolio
