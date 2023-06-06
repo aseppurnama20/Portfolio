@@ -5,8 +5,8 @@ This portfolio is a compilation of all data projects I have done for academic, j
 ## Data Engineering Portfolio
 **[ETL: Northwind Business Activity](https://github.com/aseppurnama20/DSLS-Data-Engineer-Case-Study.git)**
 ## Data Analytics Portfolio
-**[Sales and Customer Segement Analysis based RFM](https://github.com/aseppurnama20/DSLS-Data-Analytics-Case-Study.git)**
-**[Netflix Data Visualization](https://github.com/aseppurnama20/netflix-data-visualization.git)**
+#### **[Sales and Customer Segement Analysis based RFM](https://github.com/aseppurnama20/DSLS-Data-Analytics-Case-Study.git)**
+#### **[Netflix Data Visualization](https://github.com/aseppurnama20/netflix-data-visualization.git)**
 ## Data Science Portfolio
 ## GIS and Geospatial Portfolio
 ## Core Competencies
