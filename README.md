@@ -9,6 +9,8 @@ This portfolio is a compilation of all data projects I have done for academic, j
 #### **[Netflix Data Visualization](https://github.com/aseppurnama20/netflix-data-visualization.git)**
 ## Data Science Portfolio
 ## GIS and Geospatial Portfolio
+#### **[Satellite Image Processing using PCA for Microseepage Detection]**
+#### **[Land Use Land Cover Classification using Random Forest]**
 ## Core Competencies
 - **Tools**: IBExperts (Firebird Database), Microsoft SQL Server, Google Earth Engine, QGIS. Power BI, Jupyter Notebook
 - **Languages**: SQL, Python (Pandas, Matplotlib, Seaborn, Sckit-Learn), Javascript
