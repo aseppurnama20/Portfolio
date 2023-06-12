@@ -36,7 +36,9 @@ In this section, i will show my portfolio in using SQL query to retrieve data fr
 <img align="left" width="250" height="150" src="https://github.com/aseppurnama20/Portfolio/blob/58028fed87a632bdd537da2014085a60b8f06b0c/image/microseepage.jpg"> **[Satellite Image Processing using PCA for Microseepage Detection]**
 
 This project is my thesis project. I have perfomed satellite imagery processing using principal component analysis (PCA) in Google Earth Engine for emphasize mineral accurance in my area of interest (AOI). 
+
 #
+
 <img align="left" width="250"height="150" src="https://github.com/aseppurnama20/Portfolio/blob/58028fed87a632bdd537da2014085a60b8f06b0c/image/lulc.jpg"> **[Land Use Land Cover Classification using Random Forest]**
 
 This project tried to combine remote sensing, geospatial and data science by performed satellite imagery processing to classify Land Use Land Cover (LULC) using Random Forest Algorithm.
