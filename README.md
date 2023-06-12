@@ -9,6 +9,8 @@ This portfolio is a compilation of all data projects I have done for academic, j
 
 In this section, i will show my portfolio in using SQL query to retrieve data from database, ETL, create a procedure and trigger in database
 
+#
+
 <br />
 
 ## Data Analytics Portfolio
