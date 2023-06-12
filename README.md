@@ -19,6 +19,8 @@ In this section, i will show my portfolio in using SQL query to retrieve data fr
 ## Data Analytics Portfolio
 <img align="left" width="250" height="150" src="https://github.com/aseppurnama20/Portfolio/blob/58028fed87a632bdd537da2014085a60b8f06b0c/image/rfm.png"> **[Sales and Customer Segement Analysis based RFM](https://github.com/aseppurnama20/DSLS-Data-Analytics-Case-Study.git)**
 
+In this project, I have performed Recency, Frequency and Monetary or RFM to analyze Sales and Customer Segmentation. I used SQL query in performing RFM analysis. At the end, the dashboard of the RFM analysis vizualized using Power BI. From the dashboard we can see the customer segmentation correspond to sales which can be an insight for business strategy
+
 #
 <img align="left" width="250" height="150" src="https://github.com/aseppurnama20/Portfolio/blob/58028fed87a632bdd537da2014085a60b8f06b0c/image/netflix.jpg"> **[Netflix Data Visualization](https://github.com/aseppurnama20/netflix-data-visualization.git)**
 
