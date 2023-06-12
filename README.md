@@ -5,6 +5,8 @@ This portfolio is a compilation of all data projects I have done for academic, j
 ## Data Engineering Portfolio
 <img align="left" width="250" height="150" src="https://github.com/aseppurnama20/Portfolio/blob/58028fed87a632bdd537da2014085a60b8f06b0c/image/etl.png"> **[ETL: Northwind Business Activity](https://github.com/aseppurnama20/DSLS-Data-Engineer-Case-Study.git)**
 
+In this project i used Northwind Dataset provided by Microsoft. I performed ETL for product analysis, customer analysis, and shipped analysis from the data stored in database. I used Microsoft SQL Server for ETL process and Microsoft Power BI for make a visualization
+
 #
 <img align="left" width="250" height="150" src="https://github.com/aseppurnama20/Portfolio/blob/aa9264176ac0704e389e33dd171b91af6636e169/image/sql.jpg"> **[Database SQL Portfolio](https://github.com/aseppurnama20/SQL-Portofolio.git)**
 
