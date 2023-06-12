@@ -24,13 +24,11 @@ In this project, I have performed Recency, Frequency and Monetary or RFM to anal
 #
 <img align="left" width="250" height="150" src="https://github.com/aseppurnama20/Portfolio/blob/58028fed87a632bdd537da2014085a60b8f06b0c/image/netflix.jpg"> **[Netflix Data Visualization](https://github.com/aseppurnama20/netflix-data-visualization.git)**
 
+The netflix visualization was performed in Microsoft Power BI using Netflix data download from (Data). 
+
 #
 
-
-
 <br />
-
-
 
 ## Data Science Portfolio
 
