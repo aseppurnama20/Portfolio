@@ -4,10 +4,11 @@ This portfolio is a compilation of all data projects I have done for academic, j
 - Linkedin: https://www.linkedin.com/in/asep-purnama
 ## Data Engineering Portfolio
 #### **[ETL: Northwind Business Activity](https://github.com/aseppurnama20/DSLS-Data-Engineer-Case-Study.git)**
+#### **[Database SQL Portfolio](https://github.com/aseppurnama20/SQL-Portofolio.git)**
 <div style="float: left; margin-right: 10px;">
   <img src="https://github.com/aseppurnama20/Portfolio/blob/aa9264176ac0704e389e33dd171b91af6636e169/image/sql.jpg" alt="sql">
 </div>
-#### **[Database SQL Portfolio](https://github.com/aseppurnama20/SQL-Portofolio.git)**
+<!-- Section 1 -->
 ## Data Analytics Portfolio
 #### **[Sales and Customer Segement Analysis based RFM](https://github.com/aseppurnama20/DSLS-Data-Analytics-Case-Study.git)**
 #### **[Netflix Data Visualization](https://github.com/aseppurnama20/netflix-data-visualization.git)**
